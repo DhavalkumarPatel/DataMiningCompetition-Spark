@@ -1,0 +1,4 @@
+ModelTraining Program Started.
+Input Arguments :: s3://dspatel28/input s3://dspatel28/output
+ModelTraining Program finished successfully.
+Total Running Time(s) = 2641
